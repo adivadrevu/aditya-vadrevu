@@ -1,13 +1,17 @@
 {
+  "homepage": "https://adivadrevu.github.io/aditya-vadrevu/",
   "name": "aditya-vadrevu",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start":"vite-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite previe"
   },
   "dependencies": {
     "react": "^18.3.1",
