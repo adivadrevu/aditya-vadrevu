@@ -1,0 +1,17 @@
+# git checkout main
+# git reset --hard 721d994 // Important commit (Github/LindIn links are added)
+# git push origin main --force
+
+
+
+# git checkout gh-pages
+# git reset --hard d5d0d80
+# git push origin gh-pages --force
+
+
+## Rebuild your project:
+# npm run build
+# cp -r dist/* .
+# git add .
+# git commit -m "Deploy latest working build"
+# git push origin gh-pages

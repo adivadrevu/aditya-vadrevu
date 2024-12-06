@@ -65,7 +65,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
 
-        I specialize in building backend applications, AI/ML solutions and full-stack development. <br />
+        I specialize in building backend applications using Java and Spring, AI/ML solutions with Python, and front-end development with React. <br />
         <br/>
         I am passionate about creating scalable and efficient software solutions.
         </p>
