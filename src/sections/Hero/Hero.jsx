@@ -56,16 +56,20 @@ function Hero() {
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/adivadrevu/" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://linkedin.com/in/adivadrevu/" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
         <p className={styles.description}>
 
+<<<<<<< HEAD
         I specialize in building backend applications using Java and Spring, AI/ML solutions with Python, and front-end development with React. <br />
+=======
+        I specialize in building backend applications and AI/ML solutions, with a strong expertise in React. <br />
+>>>>>>> main
         <br/>
         I am passionate about creating scalable and efficient software solutions.
         </p>
