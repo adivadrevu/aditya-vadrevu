@@ -80,7 +80,7 @@ function Hero() {
         always aiming to enhance user experiences and optimize system performance.
         </p> */}
             
-        <a href={CV} download>
+          <a href={CV} download="Aditya_Vadrevu_Resume.pdf">
           <button className="hover">Resume</button>
         </a>
       </div>
